@@ -1,0 +1,266 @@
+body {
+  margin: auto;
+  width: 1440px;
+  font-family: 'Open Sans', sans-serif;
+  color: hsl(243, 87%, 12%)
+}
+
+h1, h2, h3, a {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 0.9rem;
+}
+
+.first-container {
+  margin: auto;
+  width: 80%;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  left: 5%;
+}
+
+.nav-list {
+  list-style: none;
+  margin-right: 5%;
+}
+
+.nav-text {
+  display: inline;
+  float: right;
+}
+
+li a {
+  text-decoration: none;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.second-container {
+  margin: auto;
+  width: 80%;
+  position: relative;
+}
+
+.second-info {
+  position: absolute;
+  width: 40%;
+  top: 250px;
+  left: 5%;
+}
+
+.email-box {
+  width: 250px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.BUTTON_MTH {
+  border-style: none;
+  border-radius: 5px;
+  color: #FFFFFF;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: hsl(224, 93%, 58%);
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.illustration-one {
+  position: absolute;
+  width: 50%;
+  right: 5%;
+  top: 150px;
+}
+
+.third-container {
+  margin: auto;
+  position: relative;
+  width: 80%;
+}
+
+.curve {
+  margin: auto;
+  position: absolute;
+  top: 700px;
+}
+
+.third-info {
+  position: absolute;
+  width: 45%;
+  top: 800px;
+  left: 5%;
+}
+
+.third-p {
+  width: 95%;
+}
+
+.illustration-two {
+  position: absolute;
+  width: 40%;
+  top: 850px;
+  right: 5%;
+}
+
+.seehow-link {
+  text-decoration: none;
+  color: hsl(170, 45%, 43%);
+}
+
+.arrow {
+  position: relative;
+  top: 3px;
+}
+
+hr {
+  border-style: none;
+  border-top: 1px solid;
+  margin-left: 0;
+  margin-top: 3px;
+  width: 32%;
+  color: hsl(170, 45%, 43%);
+}
+
+.quotes {
+  position: absolute;
+  background-color: white;
+  width: 300px;
+  height: 150px;
+  top: 1050px;
+  left: 5%;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 1px 1px 15px 0px lightgrey;
+}
+
+.quotes-text {
+  font-size: 0.65rem;
+  width: 85%;
+}
+
+.name-position {
+  font-size: 0.1rem;
+}
+
+.selfil {
+  float: left;
+  border-radius: 100%;
+  width: 10%;
+  margin-right: 10px;
+}
+
+.fourth-container {
+  margin: auto;
+  position: relative;
+  width: 80%;
+  background-color: hsl(238, 22%, 44%);
+  top: 1350px;
+  height: 300px;
+}
+
+.fourth-info{
+  position: absolute;
+  width: 40%;
+  left: 5%;
+  top: 70px;
+}
+
+.fourth-info-text{
+  color: white;
+}
+
+.email-box-two{
+  width: 400px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.email{
+  position: absolute;
+  right: 5%;
+  top: 100px;
+}
+
+.footer{
+  margin: auto;
+  position: relative;
+  width: 80%;
+  background-color: hsl(243, 87%, 12%);
+  top: 1350px;
+  height: 300px;
+}
+
+.fylo-info{
+  position: absolute;
+  left: 5%;
+  top: 70px;
+}
+
+.footer-text{
+  color: white;
+}
+
+.cantact-info{
+  list-style: none;
+  padding: 0;
+}
+
+.about{
+  position: absolute;
+  left: 35%;
+  top: 45%;
+}
+
+.about-list{
+  list-style: none;
+  padding: 0;
+}
+
+.about-text{
+  color: white;
+}
+
+.contact{
+  position: absolute;
+  left: 55%;
+  top: 45%;
+}
+
+.contact-list{
+  list-style: none;
+  padding: 0;
+}
+
+.contact-text{
+  color: white;
+}
+
+.attribution{
+  margin: auto;
+  position: relative;
+  width: 80%;
+}
+
+.attribution-text{
+  position: absolute;
+  right: 5%;
+  top: 1185px;
+  color: white;
+  width: 20%;
+  text-align: right;
+  line-height: 2em;
+}
